@@ -1,0 +1,10 @@
+# Fluxo seguido para criação do projeto:
+
+npm init -y (The -y stands for yes)
+npm i --save-dev @web/dev-server
+-> Adicionando no package.json o start do webserver
+npm i lit
+npm install -D typescript
+tsc --init
+-> tsconfig configurado de acordo das necessidades.
+
